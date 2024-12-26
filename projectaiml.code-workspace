@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Object-Detection-model",
+			"path": "../Object-Detection-model"
+		}
+	],
+	"settings": {}
+}
