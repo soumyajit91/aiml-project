@@ -1,0 +1,1 @@
+Hello guys this is my first ai ml project it is a bit messy at the moment. i have used yolov4 model. html.index if u trun is the website that accept the image . is linked with my weather api key use ur own. the objectdetection.py is the program which if run will do the detection . output is a json file.
